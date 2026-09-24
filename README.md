@@ -12,16 +12,6 @@ If you like my work, feel free to reach out!
 
 ### Tools and Skills 🎓
 
-Python is my first love and I work comfortably across the full stack — see my repos on GitHub.
-
-- In IT since 2019 🗓️
-- Backend development
-- Fullstack development
-- Bot & automation development (WhatsApp, Telegram, etc.)
-- REST API design & integration
-- Financial systems & admin panels
-- CRM integrations
-
 Details on the tools I use:
 
 | Area | Tool |
@@ -31,18 +21,6 @@ Details on the tools I use:
 | Runtime | ![Node.js](https://img.shields.io/badge/Runtime-Node.js-2bbc8a?logo=node.js&logoColor=white) |
 | Databases | ![MongoDB](https://img.shields.io/badge/DB-MongoDB-2bbc8a?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/DB-MySQL-2bbc8a?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-2bbc8a?logo=postgresql&logoColor=white) |
 | Specialties | ![WhatsApp Bots](https://img.shields.io/badge/Bots-WhatsApp-2bbc8a?logo=whatsapp&logoColor=white) ![REST APIs](https://img.shields.io/badge/APIs-REST-2bbc8a?logo=fastapi&logoColor=white) ![CRM](https://img.shields.io/badge/Integration-CRM-2bbc8a?logo=salesforce&logoColor=white) |
-
----
-
-### What I Build 💼
-
-I focus on practical, business-driven software:
-
-- 🤖 **Intelligent Bots** — WhatsApp automation, customer service flows, and conversational systems
-- 💰 **Financial Systems** — complete solutions for billing, payments, and financial management
-- 🖥️ **Admin Dashboards** — clean and functional management panels
-- 🔗 **API Integrations** — connecting platforms, CRMs, and third-party services
-- ⚙️ **Automations** — reducing manual work through smart workflows
 
 ---
 
