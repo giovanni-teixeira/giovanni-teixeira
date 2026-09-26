@@ -32,4 +32,4 @@ Details on the tools I use:
 
 ---
 
-*Built with ☕ and a lot of automation, haha*
+*Built with ☕ and a lot of automation, hahaha*
